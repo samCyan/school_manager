@@ -36,9 +36,9 @@ List of available end points available at-
 http://127.0.0.1:8000/docs/
 ```
 
-**Future book of work-**
-write unite test cases
-use viewsets instead of plain class based views
-configure session and cookie based authentation and authorizations
-auto generate api docs using Swagger
-dockerize the whole thing
+**Future book of work-**  
+-write unite test cases  
+-use viewsets instead of plain class based views  
+-configure session and cookie based authentation and authorizations  
+-auto generate api docs using Swagger  
+-dockerize the whole thing  
